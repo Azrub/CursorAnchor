@@ -14,7 +14,7 @@ Particularly useful for players who:
 ## Installation
 
 1. Install [Nexus Addon Loader](https://github.com/RaidcoreGG/Nexus)
-2. Download `CursorAnchor.dll` from the [latest release](link-to-your-releases)
+2. Download `CursorAnchor.dll` from the [latest release](https://github.com/Azrub/CursorAnchor/releases)
 3. Place the DLL in your `Guild Wars 2/addons` folder
 4. Start the game
 5. Configure the keybind in Nexus settings
