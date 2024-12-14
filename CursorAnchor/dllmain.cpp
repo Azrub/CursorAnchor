@@ -77,8 +77,8 @@ extern "C" __declspec(dllexport) AddonDefinition* GetAddonDef() {
     def.Load = Load;
     def.Unload = Unload;
     def.Flags = EAddonFlags_None;
-    def.Provider = EUpdateProvider_None;
-    def.UpdateLink = nullptr;
+    def.Provider = EUpdateProvider_GitHub;
+    def.UpdateLink = "https://github.com/Azrub/CursorAnchor";
     return &def;
 }
 
