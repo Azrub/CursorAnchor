@@ -19,7 +19,7 @@ Particularly useful for players who:
 4. Start the game
 5. Keep or change your existing action camera toggle keybind in your game settings
 6. In Nexus keybinds, set up the same action camera toggle key that you use in-game
-7. Configure a different key for this addon (what you are going to use to actually change camera)
+7. Configure a different key for this addon (what you are actually going to use to change camera)
 
 
 ## Building from Source
