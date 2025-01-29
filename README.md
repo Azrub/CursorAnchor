@@ -18,8 +18,8 @@ Particularly useful for players who:
 3. Place the DLL in your `Guild Wars 2/addons` folder
 4. Start the game
 5. Keep or change your existing action camera toggle keybind in your game settings
-6. In Nexus, set up the same action camera toggle key that you use in-game
-7. Configure a key for this addon
+6. In Nexus keybinds, set up the same action camera toggle key that you use in-game
+7. Configure a different key for this addon (what you are going to use to actually change camera)
 
 
 ## Building from Source
