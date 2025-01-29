@@ -17,7 +17,10 @@ Particularly useful for players who:
 2. Download `CursorAnchor.dll` from the [latest release](https://github.com/Azrub/CursorAnchor/releases)
 3. Place the DLL in your `Guild Wars 2/addons` folder
 4. Start the game
-5. Configure the keybind in Nexus settings
+5. Keep or change your existing action camera toggle keybind in your game settings
+6. In Nexus, set up the same action camera toggle key that you use in-game
+7. Configure a key for this addon
+
 
 ## Building from Source
 
